@@ -7,4 +7,4 @@ Hi, I'm Aishwarya Ramesh!✌️ I am passionate about software development with 
 
 🌸 Currently diving deeper into Machine Learning, NLP, and AWS 
 
-
+Email: aishwarya.ramesh.cs@gmail.com

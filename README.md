@@ -9,11 +9,9 @@ Hi, I'm Aishwarya Ramesh!✌️ I am passionate about software development with 
 
 🌸 Currently diving deeper into Machine Learning, NLP, and AWS 
 
-<a href="https://www.linkedin.com/in/aishwarya-ramesh1/">
-  <img src="https://shields.io" alt="LinkedIn Logo"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-ramesh1/)
 
-[![Email Me](https://shields.io)](mailto:aishwarya.ramesh.cs@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwarya.ramesh.cs@gmail.com)
 
 
 
